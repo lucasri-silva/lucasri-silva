@@ -16,12 +16,10 @@ My name is Lucas and I am a Computer Engineering student from Brazil.
 
 
 - :telescope: I’m currently learning stuff about operating systems, software engeerning, IoT and dynamic control systems.
-<!--
-- :seedling: Exploring Technical Content Writing.
--->
 - :zap: In my free time, I like to learn new things, solve problems, listen to music, reading, watch something on YouTube and hang out with friends.
 
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/lucas-silva-13b060168/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto:lucasrsilva.dev@gmail.com">![lucasrsilva.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+- :mailbox:How to reach me: 
+<br><a href="https://www.linkedin.com/in/lucas-silva-13b060168/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto:lucasrsilva.dev@gmail.com">![lucasrsilva.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ---
 
@@ -55,13 +53,4 @@ My name is Lucas and I am a Computer Engineering student from Brazil.
 
 <!--
 github profile reference: https://www.sitepoint.com/github-profile-readme/
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
