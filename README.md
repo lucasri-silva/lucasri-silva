@@ -15,7 +15,7 @@
 My name is Lucas and I am a Computer Engineering student from Brazil.
 
 
-- :telescope: I’m currently learning stuff about Artificial Inteligence, Dynamic Control Systems, Compilers, IoT and Optimization.
+- :telescope: I’m currently learning stuff about Artificial Intelligence, Dynamic Control Systems, Compilers, IoT and Optimization.
 - :zap: In my free time, I like to learn new things, solve problems, listen to music, reading, watch something on YouTube and hang out with friends.
 
 - :mailbox:How to reach me: 
