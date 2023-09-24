@@ -1,25 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/sk6yL9EGVeAcE/giphy.gif?cid=ecf05e47x30puek68insz8vj6itebt650rzyv2vroxdliy14&rid=giphy.gif&ct=g" width="400"/>
-  <!---<br/><img src="https://komarev.com/ghpvc/?username=lucasri-silva&style=flat-square&color=blue" alt=""/>-->
-  
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
- 
-</div>
-
----
-
-### :man_technologist: About Me :
+### :man_technologist: About me :
 My name is Lucas and I am a Computer Engineering student from Brazil.
 
 
-- :telescope: I’m currently learning stuff about Artificial Intelligence, Dynamic Control Systems, Compilers, IoT and Optimization.
+- :telescope: I’m currently learning stuff about Artificial Intelligence, Distributed Systems, Human Computer Interaction, Assistive Technology, and Optimization.
 - :zap: In my free time, I like to learn new things, solve problems, listen to music, reading, watch something on YouTube and hang out with friends.
 
-- :mailbox:How to reach me: 
-<br><a href="https://www.linkedin.com/in/lucas-silva-13b060168/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto:lucasrsilva.dev@gmail.com">![lucasrsilva.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+### :mailbox:How to reach me: 
+<a href="https://www.linkedin.com/in/lucas-silva-13b060168/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto:lucasrsilva.dev@gmail.com">![lucasrsilva.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ---
 
@@ -39,7 +26,10 @@ My name is Lucas and I am a Computer Engineering student from Brazil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" **alt="Scala" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VScode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>
+
 </div>
 
 ---
