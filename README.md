@@ -1,16 +1,16 @@
-### :man_technologist: About me :
+### About me :
 My name is Lucas and I am a Computer Engineering student from Brazil.
 
 
 - :telescope: I’m currently learning stuff about Artificial Intelligence, Distributed Systems, Human Computer Interaction, Assistive Technology, and Optimization.
 - :zap: In my free time, I like to learn new things, solve problems, listen to music, reading, watch something on YouTube and hang out with friends.
 
-### :mailbox:How to reach me: 
+### How to reach me: 
 <a href="https://www.linkedin.com/in/lucas-silva-13b060168/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto:lucasrsilva.dev@gmail.com">![lucasrsilva.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -34,7 +34,7 @@ My name is Lucas and I am a Computer Engineering student from Brazil.
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasri-silva&theme=dark&background=000000)](https://git.io/streak-stats)
 </br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasri-silva&layout=compact&theme=vision-friendly-dark&hide=MakeFile)](https://github.com/anuraghazra/github-readme-stats)
 
