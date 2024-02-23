@@ -1,14 +1,5 @@
 ### About me :
-My name is Lucas and I am a Computer Engineering student from Brazil.
-
-
-- :telescope: I’m currently learning stuff about Artificial Intelligence, Distributed Systems, Human Computer Interaction, Assistive Technology, and Optimization.
-- :zap: In my free time, I like to learn new things, solve problems, listen to music, reading, watch something on YouTube and hang out with friends.
-
-### How to reach me: 
-<a href="https://www.linkedin.com/in/lucas-silva-13b060168/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="mailto:lucasrsilva.dev@gmail.com">![lucasrsilva.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
----
+ Hello! I'm Lucas, and I'm a computer engineering student from Brazil. You'll find out more about me on LinkedIn and my personal website, both in the left panel.
 
 ### Languages and Tools :
 
@@ -29,14 +20,23 @@ My name is Lucas and I am a Computer Engineering student from Brazil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" title="Keras" **alt="Keras" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg" title="Cuda" **alt="Cuda" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" title="Matplotlib" **alt="Matplotlib" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" title="Scikitlearn" **alt="Scikitlearn" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>
+  
+  
 
 </div>
 
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasri-silva&theme=dark&background=000000)](https://git.io/streak-stats)
-</br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasri-silva&layout=compact&theme=vision-friendly-dark&hide=MakeFile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasri-silva&layout=compact&theme=vision-friendly-dark&hide=MakeFile)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
