@@ -1,5 +1,5 @@
 ### About me :
- Hello! I'm Lucas, and I'm a computer engineering student from Brazil. You'll find out more about me on LinkedIn and my personal website, both in the left panel.
+ Hello! I'm Lucas, and I'm a computer engineering student from Brazil. You can find out more about me on LinkedIn and my personal website, both in the left panel.
 
 ### Languages and Tools :
 
