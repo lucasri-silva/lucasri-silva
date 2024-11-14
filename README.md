@@ -20,11 +20,11 @@ I'm currently studying Computer Engineering at CEFET-MG and pursuing a Master's 
     </tr>
     <tr>
       <td><strong>Databases</strong></td>
-      <td>Firebase, MySQL, SQLite, MongoDB</td>
+      <td>Firebase, MySQL, SQLite, MongoDB, Neo4j</td>
     </tr>
     <tr>
       <td><strong>Development Tools</strong></td>
-      <td>VS Code, Git, Arduino</td>
+      <td>VS Code, Git, GitLab Arduino</td>
     </tr>
     <tr>
       <td><strong>Web Development Frameworks</strong></td>
@@ -41,6 +41,18 @@ I'm currently studying Computer Engineering at CEFET-MG and pursuing a Master's 
     <tr>
       <td><strong>Machine Learning Libraries</strong></td>
       <td>Keras, Matplotlib, Numpy, Pandas, PyTorch, Scikit-learn, TensorFlow</td>
+    </tr>
+    <tr>
+      <td><strong>Containerization and Virtualization</strong></td>
+      <td>Docker, Kubernetes</td>
+    </tr>
+    <tr>
+      <td><strong>CI/CD Tools</strong></td>
+      <td>GitLab CI</td>
+    </tr>
+    <tr>
+      <td><strong>Architectural Patterns</strong></td>
+      <td>MVC</td>
     </tr>
   </tbody>
 </table>
