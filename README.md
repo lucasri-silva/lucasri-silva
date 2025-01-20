@@ -16,7 +16,7 @@ I'm currently studying Computer Engineering at CEFET-MG and pursuing a Master's 
   <tbody>
     <tr>
       <td><strong>Programming Languages</strong></td>
-      <td>C, C++, Java, JavaScript, Python, Scala</td>
+      <td>C, C++, Java, JavaScript, Python, Scala, R</td>
     </tr>
     <tr>
       <td><strong>Databases</strong></td>
@@ -24,7 +24,7 @@ I'm currently studying Computer Engineering at CEFET-MG and pursuing a Master's 
     </tr>
     <tr>
       <td><strong>Development Tools</strong></td>
-      <td>VS Code, Git, GitLab Arduino</td>
+      <td>VS Code, Git, GitLab, Arduino</td>
     </tr>
     <tr>
       <td><strong>Web Development Frameworks</strong></td>
