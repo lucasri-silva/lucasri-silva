@@ -24,7 +24,7 @@ I'm currently studying Computer Engineering at CEFET-MG and pursuing a Master's 
     </tr>
     <tr>
       <td><strong>Development Tools</strong></td>
-      <td>VS Code, Git, GitLab, Arduino</td>
+      <td>VS Code, Android Studio, Git, GitLab, Arduino</td>
     </tr>
     <tr>
       <td><strong>Web Development Frameworks</strong></td>
