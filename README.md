@@ -36,11 +36,7 @@ I'm currently studying Computer Engineering at CEFET-MG and pursuing a Master's 
     </tr>
     <tr>
       <td><strong>Mobile Development</strong></td>
-      <td>Flutter</td>
-    </tr>
-    <tr>
-      <td><strong>Machine Learning Libraries</strong></td>
-      <td>Keras, Matplotlib, Numpy, Pandas, PyTorch, Scikit-learn, TensorFlow</td>
+      <td>Dart/Flutter, Kotlin</td>
     </tr>
     <tr>
       <td><strong>Containerization and Virtualization</strong></td>
