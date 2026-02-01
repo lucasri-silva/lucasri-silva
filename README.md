@@ -2,7 +2,7 @@
 
 Hello, I'm Lucas! 👨‍💻
 
-I'm currently studying Computer Engineering at CEFET-MG and pursuing a Master's in Informatics at the Polytechnic Institute of Bragança. You can find out more about me on LinkedIn and my personal website, linked in the left panel.
+I have a dual degree in Computer Engineering (undergraduate) at the Federal Center for Technological Education of Minas Gerais and Informatics (Master's) at the Polytechnic Institute of Bragança. You can find out more about me on LinkedIn and my personal website, linked in the left panel.
 
 ### Technologies I've Been Using So Far :
 
