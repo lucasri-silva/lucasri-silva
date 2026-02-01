@@ -56,6 +56,7 @@ I have a dual degree in Computer Engineering (undergraduate) at the Federal Cent
 </br>
 </br>
 <div style="display: flex; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasri-silva&layout=compact&theme=vision-friendly-dark&hide=MakeFile" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasri-silva&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasri-silva&layout=compact&theme=vision-friendly-dark&hide=MakeFile" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lucasri-silva&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </div>
+
