@@ -2,7 +2,8 @@
 
 Hello, I'm Lucas! 👨‍💻
 
-PhD student in Intelligent Systems Engineering at the Polytechnic Institute of Bragança. You can find out more about me on LinkedIn and my personal website, linked in the left panel.
+PhD in Intelligent Systems Engineering | AI & NLP researcher | Data-driven solutions | Into nature, simple living & good conversations. Slowly exploring the world 🌍
+You can find out more about me on LinkedIn and my personal website, linked in the left panel.
 
 ### Technologies I've Been Using So Far :
 
